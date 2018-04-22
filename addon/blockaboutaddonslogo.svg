@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="107.19537mm"
+   height="107.11674mm"
+   viewBox="0 0 107.19537 107.11674"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="blockaboutaddonslogo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-280.28323"
+     inkscape:cy="196.71107"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.676128,-93.76306)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="60.476189"
+       y="150.34523"
+       id="text4594"><tspan
+         sodipodi:role="line"
+         id="tspan4592"
+         x="60.476189"
+         y="150.34523"
+         style="stroke-width:0.26458332">about:addons</tspan></text>
+    <g
+       transform="matrix(0.238125,0,0,0.238125,13.230673,23.954302)"
+       inkscape:label="Calque 1"
+       id="layer1-6">
+      <ellipse
+         transform="matrix(0.92715,0,0,0.92105,-777.96,119.85)"
+         style="fill:#000000;fill-opacity:0;stroke:#ff0000;stroke-width:54.10699844"
+         id="path3315"
+         cx="1224.2858"
+         cy="432.36218"
+         rx="215.71428"
+         ry="217.14285" />
+      <path
+         d="m 211.43,395.22 297.14,260"
+         inkscape:connector-curvature="0"
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:50;fill-opacity:0.55251139"
+         id="path4089" />
+    </g>
+  </g>
+</svg>

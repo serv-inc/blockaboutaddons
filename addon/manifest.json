@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "block about:addons",
+  "description": "Blocks about:addons page",
+  "version": "0.1.0",
+
+  "permissions": ["tabs"],
+
+  "icons": { "128": "blockaboutaddonslogo.svg" },
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

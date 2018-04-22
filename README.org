@@ -1,0 +1,9 @@
+* block =about:addons=
+  Blocks the about:addon Firefox page.
+
+  [[https://addons.mozilla.org/de/firefox/addon/adultblacklist/][https://img.shields.io/amo/v/blockaboutaddons.svg]]
+** Versions
+*** 0.1.0
+    Previously had no code
+** Credits
+   - forbidden-sign by https://openclipart.org/detail/147961/panneau-interdit-forbidden-road-sign-basic
