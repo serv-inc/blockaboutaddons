@@ -1,7 +1,7 @@
 * block =about:addons=
   Blocks the about:addon Firefox page.
 
-  [[https://addons.mozilla.org/de/firefox/addon/adultblacklist/][https://img.shields.io/amo/v/block-about-addons.svg]]
+  [[https://addons.mozilla.org/de/firefox/addon/block-about-addons/][https://img.shields.io/amo/v/block-about-addons.svg]]
 ** Versions
 *** 0.1.0
     Previously had no code
