@@ -2,24 +2,31 @@
 <html>
   <head>
     <title>about:addons was blocked by the "block about:addons" extension</title>
+    <link rel="stylesheet" type="text/css" href="blockpage.css"/>
   </head>
   <body>
     <h1>
-      <svg
-        width="107.19537mm"
-        height="107.11674mm"
-        viewBox="0 0 107.19537 107.11674">
-        <g>
-          <use xlink:href="blockaboutaddonslogo.svg:svg8"/>
-        </g>
-      </svg>
-      block about:addons
+      <object data="blockaboutaddonslogo.svg" type="image/svg+xml">
+      </object>
+      block <code>about:addons</code>
     </h1>
     <h2>Page was blocked</h2>
     <p>
-      The page <span id="page">about:addon</span> was blocked by the
-      "block <code>about:addon</code>" addon.
+      The page <span id="page">about:addons</span> was blocked by the
+      <a href="https://github.com/serv-inc/blockaboutaddons">"block <code>about:addons</code>"
+      addon</a>.
     </p>
+
+    <p class="giveback">
+      If "block <code>about:addons</code>" has improved your life,
+please consider supporting its continued development by
+      <a href="https://www.patreon.com/user?u=8253776">making a
+contribution</a>
+      or
+      <a href="https://addons.mozilla.org/en-US/firefox/addon/blockaboutaddons">writing
+a review.</a>
+    </p>
+    <!-- text copied from LeechBlock -->
     <script src="blockpage.js"></script>
   </body>
 </html>
